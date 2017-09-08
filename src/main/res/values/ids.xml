@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 预定义的id，保存了登陆页面的登录名和密码 -->
+    <item name="hh_id_login_name" type="id"/>
+    <item name="hh_id_login_pwd" type="id"/>
+    <item name="hh_id_login_img_name" type="id"/>
+    <item name="hh_id_login_img_pwd" type="id"/>
+    <item name="hh_id_login_login" type="id"/>
+    <item name="hh_id_top_title" type="id"/>
+    <item name="hh_id_fab_float_button" type="id"/>
+    <item name="hh_id_fab_toolbar" type="id"/>
+    <item name="hh_id_fab_container" type="id"/>
+    <item name="hh_id_chat_user_name" type="id"/>
+    <item name="hh_id_chat_user_head" type="id"/>
+    <item name="hh_id_chat_msg_time" type="id"/>
+</resources>

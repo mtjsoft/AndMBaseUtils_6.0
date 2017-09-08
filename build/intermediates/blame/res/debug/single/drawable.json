@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_msg_time_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_msg_time_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c60e67a9de00e86c80d35aa63b82d2926b92aaa0\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_tv_city.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_tv_city.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tv_dialog_left_click.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\selector_tv_dialog_left_click.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_custom_toast_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_custom_toast_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tv_dialog_left_click.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_tv_dialog_left_click.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_voice_right.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_voice_right.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_msg_send_bg_normal.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_msg_send_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_login_idle.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_login_idle.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_window_share_normal.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_window_share_normal.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_img_chat_voice.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_img_chat_voice.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_left_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_left_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_share_wx_timeline.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_share_wx_timeline.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_chat_voice_record_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_chat_voice_record_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_custom_dialog_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_custom_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_tv_dialog_right_click.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\selector_tv_dialog_right_click.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_city_name.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_city_name.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_chat_voice_send_press.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_chat_voice_send_press.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tv_dialog_right.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_tv_dialog_right.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_share_wx.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_share_wx.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_progress_bar.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_progress_bar.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_custom.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_custom.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_chat_voice_send_normal.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_chat_voice_send_normal.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c60e67a9de00e86c80d35aa63b82d2926b92aaa0\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_right_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_right_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_login_error.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_login_error.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_progressbar.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_progressbar.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_fab_toolbar_empty_drawable.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_fab_toolbar_empty_drawable.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_msg_send_bg_select.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_msg_send_bg_select.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tv_dialog_left.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_tv_dialog_left.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_loadding_anim.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_loadding_anim.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_img_chat_key.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_img_chat_key.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_share_qq.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_share_qq.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_share_sina.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_share_sina.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_tv_dialog_right_click.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_tv_dialog_right_click.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_login_ing_background.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_login_ing_background.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_custom_dialog_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_custom_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_chat_voice_left.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_chat_voice_left.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_window_share_click.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_window_share_click.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_ll_code_tip.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\shape_ll_code_tip.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_share_qzone.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_share_qzone.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_selector_window_share.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_selector_window_share.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_shape_edit_border_bg.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_shape_edit_border_bg.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\36a258bbff8c6a5a2361ebb713e2e62beff1853a\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\build\\intermediates\\res\\merged\\debug\\drawable\\hh_login_complete.xml",
+        "source": "E:\\androidstudio_work\\LightLock\\HHBaseUtils\\src\\main\\res\\drawable\\hh_login_complete.xml"
+    }
+]

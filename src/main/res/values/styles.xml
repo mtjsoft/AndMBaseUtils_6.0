@@ -1,0 +1,231 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light"></style>
+
+    <!-- Application theme. -->
+    <style name="HHBaseStyle" parent="AppBaseTheme">
+        <item name="colorPrimary">@color/sky_blue_light</item>
+        <item name="colorAccent">@color/sky_blue_light</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="hh_wr_wr">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+
+    <style name="hh_window_share_anim">
+        <item name="android:windowEnterAnimation">@anim/hh_window_share_in</item>
+        <item name="android:windowExitAnimation">@anim/hh_window_share_out</item>
+    </style>
+
+    <style name="hh_fi_fi">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="hh_fi_wr">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="hh_wr_fi">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <!-- 定义显示标题的字体 -->
+    <style name="hh_text_title_black_16" parent="@style/hh_fi_wr">
+        <item name="android:textColor">@color/black_light</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="hh_text_title_black_14" parent="@style/hh_text_title_black_16">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="hh_text_title_black_18" parent="@style/hh_text_title_black_16">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="hh_text_title_black_12" parent="@style/hh_text_title_black_16">
+        <item name="android:textSize">12sp</item>
+    </style>
+    <!-- 定义显示内容或者简介的字体 -->
+    <style name="hh_text_biref_black_16" parent="@style/hh_fi_wr">
+        <item name="android:textColor">@color/black_dim</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="hh_text_biref_black_14" parent="@style/hh_text_biref_black_16">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="hh_text_biref_black_18" parent="@style/hh_text_biref_black_16">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="hh_text_biref_black_12" parent="@style/hh_text_biref_black_16">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="hh_text_title_white_16" parent="@style/hh_wr_wr">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="hh_dialog_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
+    <style name="hh_dialog_select_photo" parent="@style/hh_dialog_style">
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="hh_listview" parent="@style/hh_fi_fi">
+        <item name="android:listSelector">@color/transparent</item>
+        <item name="android:fadingEdge">none</item>
+        <item name="android:fadingEdgeLength">0dp</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:dividerHeight">1dp</item>
+        <item name="android:cacheColorHint">@color/transparent</item>
+        <item name="android:divider">@color/background</item>
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <style name="hh_edittext_default" parent="@style/hh_fi_wr">
+        <item name="android:paddingTop">@dimen/hh_edit_padding_top</item>
+        <item name="android:paddingBottom">@dimen/hh_edit_padding_bottom</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <!--     <item name="android:background">@drawable/hh_default_line_bg</item>
+     -->
+    <style name="hh_progress_bar_circle">
+        <item name="android:indeterminateDrawable">@drawable/hh_progress_bar</item>
+        <item name="android:minWidth">56dp</item>
+        <item name="android:minHeight">56dp</item>
+        <item name="android:maxHeight">56dp</item>
+        <item name="android:maxWidth">56dp</item>
+    </style>
+
+    <style name="hh_chat_user_head">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:id">@id/hh_id_chat_user_head</item>
+    </style>
+
+    <style name="hh_chat_text_content" parent="@style/hh_wr_wr">
+        <item name="android:background">@drawable/hh_chat_right_bg</item>
+        <item name="android:textColor">@color/black_dim</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:maxWidth">220dp</item>
+        <item name="android:lineSpacingExtra">3dp</item>
+    </style>
+
+    <style name="hh_chat_image_content" parent="@style/hh_wr_wr">
+        <item name="android:src">@drawable/ic_launcher</item>
+    </style>
+
+    <style name="hh_chat_voice_content">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+    </style>
+
+    <style name="hh_chat_voice_layout" parent="@style/hh_wr_wr">
+        <item name="android:minWidth">80dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+
+    <style name="hh_chat_user_name" parent="@style/hh_wr_wr">
+        <item name="android:textColor">@color/hh_chat_user_name</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:id">@id/hh_id_chat_user_name</item>
+        <item name="android:layout_marginBottom">@dimen/hh_chat_name_content_margin</item>
+        <item name="android:text">测试</item>
+    </style>
+
+    <style name="hh_chat_voice_time" parent="@style/hh_wr_wr">
+        <item name="android:textColor">@color/hh_chat_user_name</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="hh_chat_msg_send_failed" parent="@style/hh_wr_wr">
+        <item name="android:src">@drawable/hh_chat_msg_send_failed</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="hh_chat_progress_bar" parent="@style/hh_wr_wr">
+        <item name="android:indeterminateDrawable">@drawable/hh_chat_progressbar</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:maxHeight">20dp</item>
+        <item name="android:maxWidth">20dp</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+    </style>
+
+    <style name="hh_chat_content_layout" parent="@style/hh_wr_wr">
+        <item name="android:layout_below">@id/hh_id_chat_user_name</item>
+    </style>
+
+    <style name="hh_dialog_chat_voice_record">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@drawable/hh_shape_chat_voice_record_bg</item>
+    </style>
+    <!-- 支付密码开始 -->
+    <style name="GridPasswordView" />
+
+    <style name="GridPasswordView.TextView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">@null</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="GridPasswordView.EditText" parent="GridPasswordView.TextView">
+        <item name="android:cursorVisible">false</item>
+    </style>
+
+    <style name="GridPasswordView.Divider">
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginBottom">1dp</item>
+    </style>
+    <!-- 支付密码结束 -->
+
+    <!-- 提示框开始 -->
+    <style name="huahan_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@drawable/shape_custom_dialog_bg</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="weight_width_wr">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+    </style>
+    <!-- 提示框结束 -->
+</resources>

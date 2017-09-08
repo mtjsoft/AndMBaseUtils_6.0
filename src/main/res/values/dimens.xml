@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_circle_view_size">200dp</dimen>
+    <dimen name="hh_edit_padding_top">16dp</dimen>
+    <dimen name="hh_edit_padding_bottom">16dp</dimen>
+    <dimen name="cpb_stroke_width">4dp</dimen>
+    <dimen name="hh_top_height">56dp</dimen>
+    <dimen name="hh_bottom_height">56dp</dimen>
+    <dimen name="hh_chat_content_head_margin">5dp</dimen>
+    <dimen name="hh_chat_name_head_margin">12dp</dimen>
+    <dimen name="hh_chat_name_content_margin">3dp</dimen>
+    <dimen name="hh_chat_item_padding">5dp</dimen>
+</resources>

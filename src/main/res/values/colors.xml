@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <!-- 背景颜色 -->
+    <color name="background">#F5F5F5</color>
+    <!-- 黑色 -->
+    <color name="black_text">#323232</color>
+    <!-- 弹出框线的颜色 -->
+    <color name="check_code_line">#DBD9D8</color>
+    <color name="white_dim">#F7F7F0</color>
+    <color name="sky_blue">#01A1DC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="sky_blue_light">#03B4FA</color>
+    <!-- 黑色，相对亮一点 -->
+    <color name="black_light">#151A15</color>
+    <!-- 黑色，相对浅一点 -->
+    <color name="black_dim">#3E403E</color>
+    <color name="hh_toast_bg">#bb12140E</color>
+    <color name="hh_refresh_text_title">#ff434343</color>
+    <color name="gray">#CDCDCD</color>
+    <color name="gray_light">#EFEFEF</color>
+    <color name="red">#ff6464</color>
+    <color name="yellow">#00ff00</color>
+    
+    
+    <color name="cpb_grey">#ffdedede</color>
+    <color name="cpb_blue">#ff0099cc</color>
+    <color name="cpb_blue_dark">#ff00719b</color>
+    <color name="cpb_red">#ffff4444</color>
+    <color name="cpb_red_dark">#ffcd3a3a</color>
+    <color name="cpb_green">#ff99cc00</color>
+    <color name="cpb_green_dark">#ff6d9b00</color>
+    <color name="cpb_white">@android:color/white</color>
+    <drawable name="hh_activity_anim_default_background">#eeeeee</drawable>
+    <color name="hh_select_photo_bottom">#EE3A3E3C</color>
+    <color name="hh_select_photo_arrow">#929392</color>
+    <color name="hh_select_photo_type_window_bg">#cc000000</color>
+    <color name="hh_image_brower_bg">#090909</color>
+    <color name="hh_chat_time_bg">#AAADAEB5</color>
+    <color name="hh_chat_user_name">#ADADAD</color>
+    <color name="hh_chat_list_bg">#eeeeee</color>
+    <color name="hh_chat_msg_send_normal">#41C310</color>
+    <color name="hh_chat_msg_send_press">#298509</color>
+    <color name="black">#000000</color>
+</resources>

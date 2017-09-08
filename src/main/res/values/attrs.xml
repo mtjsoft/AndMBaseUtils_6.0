@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaterialRippleLayout">
+        <attr name="mrl_rippleColor" format="color" localization="suggested" />
+        <attr name="mrl_rippleDimension" format="dimension" localization="suggested" />
+        <attr name="mrl_rippleOverlay" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleAlpha" format="float" localization="suggested" />
+        <attr name="mrl_rippleDuration" format="integer" localization="suggested" />
+        <attr name="mrl_rippleFadeDuration" format="integer" localization="suggested" />
+        <attr name="mrl_rippleHover" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleBackground" format="color" localization="suggested" />
+        <attr name="mrl_rippleDelayClick" format="boolean" localization="suggested" />
+        <attr name="mrl_ripplePersistent" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleInAdapter" format="boolean" localization="suggested" />
+        <attr name="mrl_rippleRoundedCorners" format="dimension" localization="suggested" />
+    </declare-styleable>
+    <declare-styleable name="SpinnerLoader">
+        <attr name="point_color" format="color" />
+        <attr name="isdynamic" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="CircleProgress">
+        <attr name="color1" format="reference|color" />
+        <attr name="color2" format="reference|color" />
+        <attr name="color3" format="reference|color" />
+    </declare-styleable>
+    <declare-styleable name="CircularProgressButton">
+        <attr name="cpb_selectorIdle" format="reference" />
+        <attr name="cpb_selectorComplete" format="reference" />
+        <attr name="cpb_selectorError" format="reference" />
+        <attr name="cpb_textComplete" format="string" />
+        <attr name="cpb_textIdle" format="string" />
+        <attr name="cpb_textError" format="string" />
+        <attr name="cpb_textProgress" format="string" />
+        <attr name="cpb_colorProgress" format="color" />
+        <attr name="cpb_colorIndicator" format="color" />
+        <attr name="cpb_colorIndicatorBackground" format="color" />
+        <attr name="cpb_iconError" format="reference" />
+        <attr name="cpb_iconComplete" format="reference" />
+        <attr name="cpb_cornerRadius" format="dimension" />
+        <attr name="cpb_paddingProgress" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="pst_indicatorColor" format="color" />
+        <attr name="pst_underlineColor" format="color" />
+        <attr name="pst_dividerColor" format="color" />
+        <attr name="pst_indicatorHeight" format="dimension" />
+        <attr name="pst_underlineHeight" format="dimension" />
+        <attr name="pst_dividerPadding" format="dimension" />
+        <attr name="pst_tabPaddingLeftRight" format="dimension" />
+        <attr name="pst_scrollOffset" format="dimension" />
+        <attr name="pst_tabBackground" format="reference" />
+        <attr name="pst_shouldExpand" format="boolean" />
+        <attr name="pst_textAllCaps" format="boolean" />
+        <attr name="zmsTabTextSize" format="dimension" />
+        <attr name="zmsTabTextColor" format="color" />
+        <attr name="zmsSelectedTabTextSize" format="dimension" />
+        <attr name="zmsSelectedTabTextColor" format="color" />
+    </declare-styleable>
+    <declare-styleable name="RoundedImageView">
+        <attr name="riv_corner_radius" format="dimension" />
+        <attr name="riv_corner_radius_top_left" format="dimension" />
+        <attr name="riv_corner_radius_top_right" format="dimension" />
+        <attr name="riv_corner_radius_bottom_left" format="dimension" />
+        <attr name="riv_corner_radius_bottom_right" format="dimension" />
+        <attr name="riv_border_width" format="dimension" />
+        <attr name="riv_border_color" format="color" />
+        <attr name="riv_mutate_background" format="boolean" />
+        <attr name="riv_oval" format="boolean" />
+        <attr name="android:scaleType" />
+        <attr name="riv_tile_mode">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="riv_tile_mode_x">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+        <attr name="riv_tile_mode_y">
+            <enum name="clamp" value="0" />
+            <enum name="repeat" value="1" />
+            <enum name="mirror" value="2" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="HHSelectCircleView">
+        <!-- 设置子控件显示的宽度 -->
+        <attr name="child_width" format="dimension" />
+        <!-- 设置子控件显示的高度 -->
+        <attr name="child_height" format="dimension"></attr>
+        <!-- 设置子控件之间的间距 -->
+        <attr name="child_margin" format="dimension"></attr>
+        <!-- 子空间是否显示为圆形，默认为true，此时控件的大小为宽和高中的最小值 -->
+        <attr name="is_circle" format="boolean"></attr>
+        <!-- 正常情况下显示的颜色 -->
+        <attr name="normal_color" format="color|reference"></attr>
+        <!-- 选中的时候显示的颜色 -->
+        <attr name="select_color" format="color|reference"></attr>
+        <!-- 子空间是否显示为自定义的drawable，默认为false，此时控件的大小为自定义的大小 -->
+        <attr name="is_custom" format="boolean"></attr>
+        <attr name="custom_drawable" format="integer"></attr>
+    </declare-styleable>
+    <declare-styleable name="HHAutoRecycleViewPager">
+        <!-- x轴的比例 -->
+        <attr name="x_acept" format="integer"></attr>
+        <!-- y轴的比例 -->
+        <attr name="y_acept" format="integer"></attr>
+        <!-- timer执行的时间间隔 -->
+        <attr name="time_span" format="integer"></attr>
+    </declare-styleable>
+    <declare-styleable name="FABToolbarLayout">
+        <attr name="showDuration" format="integer" />
+        <attr name="hideDuration" format="integer" />
+        <attr name="bottomMargin" format="dimension" />
+        <attr name="rightMargin" format="dimension" />
+        <attr name="fadeInPivotX" format="dimension" />
+        <attr name="fadeInPivotY" format="dimension" />
+        <attr name="fadeInFraction" format="float" />
+        <attr name="fabId" format="reference" />
+        <attr name="containerId" format="reference" />
+        <attr name="fabToolbarId" format="reference" />
+        <attr name="fabDrawableAnimationEnabled" format="boolean" />
+    </declare-styleable>
+    <declare-styleable name="gridPasswordView">
+
+        <attr name="gpvTextColor" format="color|reference" />
+        <attr name="gpvTextSize" format="dimension" />
+
+        <attr name="gpvLineColor" format="color" />
+        <attr name="gpvGridColor" format="color" />
+        <attr name="gpvLineWidth" format="dimension" />
+
+        <attr name="gpvPasswordLength" format="integer" />
+        <attr name="gpvPasswordTransformation" format="string" />
+
+        <attr name="gpvPasswordType" format="enum">
+            <enum name="numberPassword" value="0" />
+            <enum name="textPassword" value="1" />
+            <enum name="textVisiblePassword" value="2" />
+            <enum name="textWebPassword" value="3" />
+        </attr>
+
+    </declare-styleable>
+</resources>
